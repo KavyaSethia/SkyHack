@@ -1,0 +1,32 @@
+Step 1: Install Jupyter Notebook
+Install Jupyter Notebook by running the following command in your terminal or command prompt:pip install notebook
+
+Step 2: Open Jupyter Notebook
+Open Jupyter Notebook by running one of the following commands in your terminal or command prompt:
+jupyter notebook
+or
+python -m notebook
+This command will launch the Jupyter Notebook interface in your default web browser.
+
+Step 3: Install Required Libraries
+If you have a requirements.txt file that lists the libraries you need for your project, you can install them using the following command:
+1. Open a terminal or command prompt (you can also run this in a Jupyter Notebook cell).
+2. Run:
+pip install -r requirements.txt
+
+Step 4: Upload our Jupyter Notebook
+1. In the Jupyter Notebook interface, locate the Upload button on the right-hand side.
+2. Click on it to open a file dialog and select the Jupyter Notebook file (.ipynb) you want to upload.
+3. After selecting the file, click Open to upload it.
+
+Step 5: Open our Jupyter Notebook
+Once uploaded, our notebook will appear in the file list. To open it:
+1. Locate your notebook file in the Jupyter Notebook interface.
+2. Left-click on the notebook name to open it in a new tab.
+
+Step 6: Run Your Code
+1. Click on a cell in the notebook to select it.
+2. To run the selected cell, press Shift + Enter or click the Run button in the toolbar.
+3. You can continue to write code in new cells, run them, and see the output right below each cell.
+
+ format from the list.
